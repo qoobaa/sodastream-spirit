@@ -37,7 +37,7 @@ difference() {
     rotate([90, 0, 0])
     cylinder(30, 1.75, 1.75, center=true);
 
-  translate([0, 0, -7])
+  translate([0, 0, -8])
     cube([100, 18, 10], center=true);
 }
 
